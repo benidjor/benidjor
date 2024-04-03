@@ -1,4 +1,15 @@
-### Hi there 👋
+## About Me
+
+
+
+## Tools and Email
+
+- Tools : `Python`, `SQL`, `Excel`, `Google Spreadsheet`
+- Email : benidjor@gmail.com
+
+## Projects
+Click for Portfolio
+
 
 <!--
 **benidjor/benidjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
