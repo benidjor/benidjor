@@ -8,7 +8,7 @@
 - Email : benidjor@gmail.com
 
 ## Projects
-- 축구 선수 몸값 예측 모델 구축 [바로가기](https://github.com/benidjor/DAStudy-sat/tree/main/Tek/football-data-from-transfermarkt)
+- 축구 선수 몸값 예측 모델 구축 [바로가기](https://github.com/benidjor/player-value-prediction-from-transfermarkt.git)
   - Transfermarkt 데이터를 바탕으로, 이전 시즌과 현재 시즌의 선수 스탯에 기반하여 현재 시즌의 선수별 몸값 예측
   - `Python`, `Preprocessing & EDA`, `Machine Learning`
     
