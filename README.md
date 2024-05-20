@@ -1,11 +1,11 @@
 ## About Me
 - 설득력 있게 문제를 정의하고 가치를 도출하는 것을 중요하게 생각합니다.
 - 디테일을 바탕으로, 효율적으로 협업하며 해결책을 고도화 하는 것에 보람을 느낍니다.
-
-## Tools and Email
-
-- Tools : `Python`, `SQL`, `Excel`, `Google Spreadsheet`
 - Email : benidjor@gmail.com
+
+## Tools and Skills
+- `Python`, `SQL`, `Excel`, `Google Spreadsheet`
+
 
 ## Projects
 - 축구 선수 몸값 예측 모델 구축 [바로가기](https://github.com/benidjor/player-value-prediction-from-transfermarkt.git)
