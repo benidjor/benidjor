@@ -23,7 +23,7 @@
   - `Python`, `Preprocessing & EDA`, `Machine Learning`
     
 - 이커머스 데이터 분석 & 추천 시스템 모델링 [바로가기](https://github.com/benidjor/ecommerce-behavior-data-analysis)
-  - E-Commerce 웹 로그 데이터를 바탕으로 매출 증대를 위한 비즈니스 인사이트 도출
+  - E-Commerce 쇼핑몰 로그 데이터를 바탕으로 한 퍼널 분석, 매출 증대를 위한 비즈니스 인사이트 도출 및 추천 시스템 모델링
   - `Python`, `BigQuery`, `Preprocessing & EDA`, `SQL`, `Jira`
 
 <!--
