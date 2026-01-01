@@ -1,8 +1,8 @@
 ## Hello ! I'm Sangteck Jeon
 ### 인프라 구축부터 데이터 처리까지, End-to-End 파이프라인을 주도적으로 구현하는 Data Engineer
+- 데이터 수집, 처리, 저장, 분석으로 이어지는 파이프라인을 설계하고 데이터 레이크하우스를 구현했습니다.
+- 클라우드 환경에서 Kafka, Airflow, Trino 등 주요 인프라를 Self-hosted로 직접 구축 및 운영하고 최적화했습니다.
 - 책임감을 바탕으로, 순간의 효율에 타협하지 않고 어려운 기술적 이슈도 끝까지 파고들어 해결합니다.
-- 데이터 수집, 처리, 저장, 분석으로 이어지는 파이프라인을 설계하고 데이터 레이크하우스를 구현합니다.
-- 클라우드 환경에서 Kafka, Airflow, Trino 등 주요 인프라를 Self-hosted로 직접 구축 및 운영하고 최적화합니다.
 
 ## Contacts
 <!-- <div align=center> -->
@@ -15,40 +15,25 @@
 ## Tools and Skills
 <!-- - `Python`, `SQL`, `Excel`, `Google Spreadsheet`, `Jira` -->
 
-### Languages
+#### Languages
 `Python`, `SQL`
 
-### Data Engineering & Analytics
+#### Data Engineering
 `Apache Spark`, `Apache Airflow`, `Apache Kafka`, `Apache Iceberg`, `Hive Metastore`, `Snowflake`, `Trino`
 
-### Data Analysis & Visualization
+#### Data Analysis & Visualization
 `Pandas`, `Numpy`, `Scikit-learn`, `Apache Superset`, `Tableau`
 
-### Database
+#### Database
 `PostgreSQL`, `MySQL`, `MongoDB`
 
-### Others
+#### Others
 `Git`, `Jira`, `Docker`
 
 ## Featured Projects
-### [Reciping | 준실시간 데이터 파이프라인](https://github.com/Reciping/reciping-data-pipeline)
-- Kafka, S3, Iceberg, Trino를 활요앟ㄴ 메달리온 아키텍처 기반 데이터 레이크하우스 구현
-- Kafka-Spark 연동 준실시간 스트리밍 및 배치 파이프라인 구축
-- 이벤트 로그 스키마 기반 유저 행동 로그 데이터 생성 및 검증
-- Self-Hosted 클라우드 데이터 인프라 구축 및 운영
-- Airflow DAG 기반 배치 파이프라인 오케스트레이션
-- 비즈니스 분석을 위한 데이터 마트 및 Apache Superset 대시보드 구축
-### [E-commerce 유저 행동 데이터 파이프라인](https://github.com/benidjor/ecommerce-behavior-data)
-- ETL + ELT 데이터 파이프라인 구현 (S3, Snowflake)
-- Spark 활용 대용량 데이터 분산 처리
-- Airflow DAG 기반 배치 파이프라인 오케스트레이션
-- OLAP 최적화를 위한 데이터 마트 구축 (Star Schema)
-- 비즈니스 분석을 위한 Apache Superset 대시보드 구축
-### [지역 특성에 따른 강릉시 노인 복지 사각지대 발굴 프로세스](https://github.com/benidjor/gn-senior-care)
-- 의료 복지 공공 API 2년치 데이터 활용
-- 도시 및 농어촌 여부에 따른 지역 특성을 반영한 클러스터링
-- 사각지대 발굴 프로세스를 활용한 기대 효과 및 정책 제언
-- 프로젝트 발표 및 우수상 수상 (전체 2등)
+- [Reciping | 준실시간 데이터 파이프라인](https://github.com/Reciping/reciping-data-pipeline)
+- [E-commerce 유저 행동 데이터 파이프라인](https://github.com/benidjor/ecommerce-behavior-data)
+- [지역 특성에 따른 강릉시 노인 복지 사각지대 발굴 프로세스](https://github.com/benidjor/gn-senior-care)
 
 <!-- - 앙상블 기법을 활용한 안개 발생 예측 모델링 [바로가기](https://github.com/benidjor/weather-contest)
   - [2024 날씨 빅데이터 콘테스트](https://bd.kma.go.kr/contest/) 과제 2: 기상특성에 따른 안개 발생 진단
