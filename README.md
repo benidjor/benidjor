@@ -4,12 +4,6 @@
 - 데이터 수집, 처리, 저장, 분석으로 이어지는 파이프라인을 설계하고 데이터 레이크하우스를 구현했습니다.
 - 클라우드 환경에서 Kafka, Airflow, Trino 등 주요 인프라를 Self-hosted로 직접 구축 및 운영하고 최적화했습니다.
 
-## Contacts
-<!-- <div align=center> -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benidjor@gmail.com)](mailto:benidjor@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sangteck-jeon/)](https://https://www.linkedin.com/in/sangteck-jeon/)
-
-
 <!-- </div> -->
 
 ## Tools and Skills
