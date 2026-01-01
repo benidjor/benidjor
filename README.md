@@ -15,8 +15,8 @@
 ## Tools and Skills
 <!-- - `Python`, `SQL`, `Excel`, `Google Spreadsheet`, `Jira` -->
 
-#### Languages
-`Python`, `SQL`
+#### Language & Database
+`Python`, `SQL`, `PostgreSQL`, `MySQL`, `MongoDB`
 
 #### Data Engineering
 `Apache Spark`, `Apache Airflow`, `Apache Kafka`, `Apache Iceberg`, `Hive Metastore`, `Snowflake`, `Trino`
@@ -24,9 +24,11 @@
 #### Data Analysis & Visualization
 `Pandas`, `Numpy`, `Scikit-learn`, `Apache Superset`, `Tableau`
 
+
+<!-- 
 #### Database
 `PostgreSQL`, `MySQL`, `MongoDB`
-<!-- 
+
 #### Others
 `Git`, `Jira`, `Docker` -->
 
