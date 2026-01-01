@@ -26,9 +26,9 @@
 
 #### Database
 `PostgreSQL`, `MySQL`, `MongoDB`
-
+<!-- 
 #### Others
-`Git`, `Jira`, `Docker`
+`Git`, `Jira`, `Docker` -->
 
 ## Featured Projects
 - [Reciping | 준실시간 데이터 파이프라인](https://github.com/Reciping/reciping-data-pipeline)
