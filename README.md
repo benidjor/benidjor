@@ -27,7 +27,7 @@
 `Git`, `Jira`, `Docker` -->
 
 ## Featured Projects
-- [Reciping | 준실시간 데이터 파이프라인](https://github.com/Reciping/reciping-data-pipeline)
+- [레시피 검색 플랫폼 Reciping 준실시간 데이터 파이프라인](https://github.com/Reciping/reciping-data-pipeline)
 - [E-commerce 유저 행동 데이터 파이프라인](https://github.com/benidjor/ecommerce-behavior-data)
 - [지역 특성에 따른 강릉시 노인 복지 사각지대 발굴 프로세스](https://github.com/benidjor/gn-senior-care)
 
